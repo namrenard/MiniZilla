@@ -26,15 +26,15 @@ Pour du multi-threading, choisir **Client.java**.<br>
     - stor : récupérer un fichier du client vers le dossier courant sur le serveur. (AKA : téléversement.)
     - bye : pour quitter et fermer la connexion au serveur.
 
-# Version
+# Changelog
 
-1.0
+v 1.0
 
 # Feature possible
 
 Une IHM est à envisager.
 
 
-#Auteurs : 
+# Auteurs : 
 - Jérémy F. -> [JF Github](https://github.com/xel0x)
 - Nicolas R. 
